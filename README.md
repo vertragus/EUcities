@@ -1,5 +1,5 @@
 # EUcities
-<img src="files/view.jpg">
+<img src="files/View.jpeg">
 
 **Purpose**
 
