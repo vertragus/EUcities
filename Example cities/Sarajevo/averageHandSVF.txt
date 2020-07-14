@@ -1,0 +1,2 @@
+average height (m),average SVF (%)
+12.8188073394,85.7642537528
