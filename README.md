@@ -46,7 +46,7 @@ Building heights are issued from zonal statistics between the building footprint
 
 **Grasshopper module**
 * Once the Python script complete for a given city, open the GH script with Grasshopper (TM) for Rhino (R)
-* The Grasshopper plugins DTM, GHSHP and Ladybug are required:
+* The Grasshopper plugins DTM, GHSHP, Ladybug and Human are required:
    * DTM https://www.food4rhino.com/app/dtm-digital-terrain-mesh
    * GHSHP https://www.food4rhino.com/app/ghshp
    * Ladybug https://www.food4rhino.com/app/ladybug-tools#downloads_list
