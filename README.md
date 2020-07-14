@@ -1,4 +1,6 @@
 # EUcities
+<img src="files/view.jpg">
+
 **Purpose**
 
 This notebook employs open source databases to create a shapefile that includes terrain, roads and buildings LOD-1 data, including an estimation of building heights.
