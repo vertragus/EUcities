@@ -50,6 +50,8 @@ Building heights are issued from zonal statistics between the building footprint
    * DTM https://www.food4rhino.com/app/dtm-digital-terrain-mesh
    * GHSHP https://www.food4rhino.com/app/ghshp
    * Ladybug https://www.food4rhino.com/app/ladybug-tools#downloads_list
+   * Human https://www.food4rhino.com/app/human
 * Set the main directory path
 * The geometry is imported and visualized
 * The Sky View Factor is computed through LadyBug and visualized
+* Beware the generated file can be heavy
