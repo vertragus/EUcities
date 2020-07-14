@@ -40,4 +40,14 @@ Building heights are issued from zonal statistics between the building footprint
     * scroll the frame that appears on the left to the "encapsulating objects" list
     * select the boundary of interest. It will be highlighted in the map
     * the number in parentheses () after the region name is the relation ID
-* Run the script.
+* Run the script for the chosen city.
+
+**Grasshopper module**
+* Once the Python script complete for a given city, open the GH script with Grasshopper (TM) for Rhino (R)
+* The Grasshopper plugins DTM, GHSHP and Ladybug are required:
+   * DTM https://www.food4rhino.com/app/dtm-digital-terrain-mesh
+   * GHSHP https://www.food4rhino.com/app/ghshp
+   * Ladybug https://www.food4rhino.com/app/ladybug-tools#downloads_list
+* Set the main directory path
+* The geometry is imported and visualized
+* The Sky View Factor is computed through LadyBug and visualized
